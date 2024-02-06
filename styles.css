@@ -82,6 +82,16 @@ img {
     border: 1px solid #ccc;
 }
 
+.cook-it-btn {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #129043;
+    padding: 0.5em 0.5em;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    margin: 0 1em;
+}
+
 .recipe_top {
     display: flex;
 }
