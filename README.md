@@ -10,4 +10,4 @@ The Website ist split into 4 Pages:
 * **Omnivor** - Featuring recipes without any restrictions to animal products.
 
 
-[Website of the Lazy Cookbook](/images/LazyCookbookscreen.jpg)
+[Website of the Lazy Cookbook](/images/LazyCookbook_screen.png)
